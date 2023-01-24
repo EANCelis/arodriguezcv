@@ -1,0 +1,138 @@
+* {
+    box-sizing: border-box;
+  }
+body {
+    font-family: 'DM Sans', sans-serif;
+    background-color: #A4C7F0;
+}
+h3, h4{
+    width: 550px;
+    padding: 1px;
+    border: 15px;
+    background-color: #d8c187;
+    font-weight: solid black;
+    color: black;
+}
+
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+p, #botonHab, #botonExp, #botonHabOcul, #botonExpOcul {
+    width: 550px;
+    padding: 9px;
+    background-color: #15a7db;
+    color: black;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+h1 {
+    width: 550px;
+    padding: 9px;
+    margin-bottom: 8px;
+    background-color: #15a7db;
+    color: black;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 2px 2px rgba(0,0,0,0.24);
+}
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+  }
+li {
+    padding: 9px;
+    margin: 10px;
+    background-color: #d8c187;
+    color: black;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 2px 2px rgba(0,0,0,0.24);
+}
+form input{
+    padding: 5px;
+    width: 217px;
+    margin: 5px;
+}
+form textarea {
+    padding: 20px;
+    width: 217px;
+    margin: 5px;
+}
+/* Para teléfonos: */
+@media only screen and (max-width: 768px) {
+    
+
+[class*="col-"] {
+    width: 100%;
+  }
+h1, h2, h3, h4, p {
+    text-align: left;
+    width: 100%;
+}
+
+form input, textarea, form input, .boton, .contacto, #botonExp, #botonHab, #botonExpOcul, #botonHabOcul {
+    width: 100% !important;
+}
+li {
+    width: 80%;
+}
+label {
+    margin-left: 5px;
+        }
+}
+/* Para tablets y desktops: */
+@media only screen and (min-width: 768px){
+    h1, h2, h3, h4, p {
+        text-align: center;
+        width: 100%;
+    }
+    li {
+        width: 80%;
+        margin: 15px;
+    }
+    .contacto, .boton, textarea, form input, #botonHab, #botonExp, #botonExpOcul, #botonHabOcul {
+        width: 100% !important;
+    }
+    label {
+        margin-left: 5px;
+    }
+}
+.boton {
+    text-align: center;
+    border-radius: 5px;
+    background-color: steelblue;
+    color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
+img {
+    display: block;
+    margin: auto;
+}
+.boton:hover {
+    background-color: black;
+    cursor: pointer;
+}
+span {
+    float: right;
+    font-size: 13px;
+    color: red;
+}
+.check {
+    color: seagreen;
+}
+#botonHab:hover, #botonExp:hover, #botonHabOcul:hover, #botonExpOcul:hover {
+    background-color: grey;
+    cursor: pointer;
+}
+#botonExp {
+    margin-top: 15px;
+}
+#infoPer {
+    background-color: rgb(36, 35, 35);
+}
