@@ -1,2 +1,7 @@
 # https://eancelis.github.io/arodriguezcv/
-Curriculum Vitae hecho con los conocimientos vistos en el curso de Front-end (Nivel inicial)
+ Primera página web hecha desde cero                                                                                                                                                           
+ Curriculum Vitae hecho con los conocimientos vistos en el curso de Front-end (Nivel inicial)                                                                                                                                                                                                                                          
+·HTML                                                                                                                                                                                                                                                                                                                                 
+·CSS                                                                                                                                                                  
+                                                                                                                                                            ·JAVASCRIPT                                                                                                                                                           
+                                                                                                                                                             ·BOOTSTRAP
