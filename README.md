@@ -30,13 +30,19 @@ Funcionalidades Implementadas
 Diseño
 
 La página tiene un diseño limpio y moderno, con un enfoque en la usabilidad. Se utiliza CSS para el estilizado, asegurando que la presentación sea atractiva y profesional.
+
 Consideraciones Técnicas
 
     Arquitectura de Código: La estructura del código HTML está organizada y semánticamente correcta, lo que facilita la lectura y mantenimiento.
+    
     Responsive Design: La página está diseñada para adaptarse a diferentes tamaños de pantalla, asegurando una experiencia óptima en móviles y desktops.
+    
     Accesibilidad: Se han considerado prácticas de accesibilidad, como el uso de etiquetas adecuadas y descripciones en imágenes, para facilitar el uso por parte de personas con discapacidades.
+    
     Optimización SEO: Se han implementado meta etiquetas y descripciones para mejorar la visibilidad en motores de búsqueda.
+    
     Uso de Fuentes y Estilos Externos: Se utilizan fuentes de Google y CSS externo para una mejor presentación visual y consistencia en el estilo.
+    
     Validaciones en el Formulario: Se han implementado validaciones en tiempo real utilizando JavaScript, mejorando la calidad de los datos ingresados por los usuarios.
 
     Tecnologías Utilizadas:
