@@ -7,6 +7,7 @@ Estructura de la Página
 1. Encabezado y Meta Datos
 
 La página incluye meta etiquetas que mejoran la optimización para motores de búsqueda y la integración en redes sociales, como Open Graph. Se utilizan fuentes de Google y un favicon para una mejor presentación visual.
+
 2. Información Personal
 
     Foto de Perfil: Una imagen representativa de Adrián.
