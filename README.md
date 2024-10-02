@@ -2,7 +2,7 @@
 
 Introducción
 
-He desarrollado una página web de Curriculum Vitae desde cero, con el objetivo de presentar de manera clara y atractiva la información personal y profesional de Adrián Rodríguez. Esta web está diseñada para ser responsive y accesible, garantizando una buena experiencia de usuario en distintos dispositivos.
+He desarrollado una página web de un Curriculum Vitae desde cero para el Trabajo Final del curso de Front-End Nivel Inicial, con el objetivo de presentar de manera clara y atractiva la información personal y profesional de Adrián Rodríguez. Esta web está diseñada para ser responsive y accesible, garantizando una buena experiencia de usuario en distintos dispositivos.
 Estructura de la Página
 1. Encabezado y Meta Datos
 
